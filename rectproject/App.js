@@ -11,9 +11,9 @@ class App extends Component {
     return (
       <View>
         <Header/>
-        
+        <TouchableHighlight>
         <DataList/>
-        
+        </TouchableHighlight>
       </View>
     );
   }

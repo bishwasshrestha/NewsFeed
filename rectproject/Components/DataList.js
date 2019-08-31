@@ -7,7 +7,7 @@ import { FlatList, TouchableOpacity, TouchableHighlight } from 'react-native-ges
 import StyleSheet from 'react-native';
 
 
-const URL = "https://newsapi.org/v2/everything?q=bitcoin&from=2019-07-30&sortBy=publishedAt&apiKey=45069d75a87d4d0bba29a7f9b03feca0";
+const URL = "https://newsapi.org/v2/everything?q=bitcoin&from=2019-07-31&sortBy=publishedAt&apiKey=45069d75a87d4d0bba29a7f9b03feca0";
 
 
 class DataList extends Component {
